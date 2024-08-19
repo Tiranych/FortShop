@@ -1,0 +1,13 @@
+:root {
+    --main-bg-color: #502E87;
+    --main-text-color: #FFF;
+}
+
+.wrapper {
+    font-family: "Comfortaa", sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+    color: var(--main-text-color, white);
+    background-color: var(--main-bg-color);
+}
